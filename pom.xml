@@ -253,7 +253,7 @@
         </dependency>
         <dependency>
             <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
+            <artifactId>junit-SNAPSHOT</artifactId>
             <scope>test</scope>
         </dependency>
         <dependency>
