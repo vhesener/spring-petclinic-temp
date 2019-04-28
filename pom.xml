@@ -418,7 +418,18 @@
             </plugin>
         </plugins>
     </reporting>
-
+    <servers>
+        <server>
+          <username>anonymous</username>
+          <password>anonymous</password>
+          <id>central</id>
+        </server>
+        <server>
+          <username>anonymous</username>
+          <password>anonymous</password>
+          <id>snapshots</id>
+        </server>
+    </servers>
     <distributionManagement>
         <snapshotRepository>
             <id>snapshots</id>
