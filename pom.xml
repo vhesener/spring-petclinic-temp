@@ -423,6 +423,7 @@
         <snapshotRepository>
             <id>snapshots</id>
             <url>http://nexus:8081/nexus/content/repositories/snapshots</url>
+         <enabled>true</enabled>
         </snapshotRepository>
         <repository>
             <id>releases</id>
