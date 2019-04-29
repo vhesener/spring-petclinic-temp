@@ -253,7 +253,8 @@
         </dependency>
         <dependency>
             <groupId>junit</groupId>
-            <artifactId>junit-SNAPSHOT</artifactId>
+            <artifactId>junit</artifactId>
+            <version>4.13-SNAPSHOT</version>
             <scope>test</scope>
         </dependency>
         <dependency>
